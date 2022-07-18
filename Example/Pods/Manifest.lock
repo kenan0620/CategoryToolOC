@@ -1,0 +1,18 @@
+PODS:
+  - CategoryToolOC (0.1.1):
+    - CategoryToolOC/UIColor (= 0.1.1)
+  - CategoryToolOC/UIColor (0.1.1)
+
+DEPENDENCIES:
+  - CategoryToolOC (from `../`)
+
+EXTERNAL SOURCES:
+  CategoryToolOC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CategoryToolOC: c0fbe1e1f58a9e0d0465f71ade2d31c8bca97b8a
+
+PODFILE CHECKSUM: 81346bbcc21d99ad42173edf28021460e357da67
+
+COCOAPODS: 1.11.2

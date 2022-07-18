@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'CategoryToolOC_Example' do
+  pod 'CategoryToolOC', :path => '../'
+
+  target 'CategoryToolOC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
