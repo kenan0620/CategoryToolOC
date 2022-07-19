@@ -1,6 +1,6 @@
 {
   "name": "CategoryToolOC",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "项目常用分类库.",
   "description": "项目常用分类库,包含项目中的和系统中的.",
   "homepage": "https://github.com/kenan0620/CategoryToolOC",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/kenan0620/CategoryToolOC.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "social_media_url": "https://www.jianshu.com/u/aa2d07ae7c2f",
   "platforms": {
@@ -27,6 +27,13 @@
         "ios": "11.0"
       },
       "source_files": "CategoryToolOC/Classes/UIColor+Category.{h,m}"
+    },
+    {
+      "name": "UIImage",
+      "platforms": {
+        "ios": "11.0"
+      },
+      "source_files": "CategoryToolOC/Classes/UIImage{*}.{h,m}"
     }
   ]
 }

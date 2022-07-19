@@ -12,6 +12,12 @@
 
 #import "CategoryToolOC.h"
 #import "UIColor+Category.h"
+#import "UIImage+Color.h"
+#import "UIImage+Gif.h"
+#import "UIImage+Image.h"
+#import "UIImage+Larger.h"
+#import "UIImage+Rotate.h"
+#import "UIImage+SubImage.h"
 
 FOUNDATION_EXPORT double CategoryToolOCVersionNumber;
 FOUNDATION_EXPORT const unsigned char CategoryToolOCVersionString[];
