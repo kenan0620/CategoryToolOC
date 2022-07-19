@@ -20,6 +20,7 @@
 #import "UIImage+Larger.h"
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
+#import "WKWebView+Category.h"
 
 FOUNDATION_EXPORT double CategoryToolOCVersionNumber;
 FOUNDATION_EXPORT const unsigned char CategoryToolOCVersionString[];
