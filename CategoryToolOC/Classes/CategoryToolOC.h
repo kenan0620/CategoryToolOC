@@ -17,4 +17,7 @@
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
 
+#import "UIButton+Category.h"
+#import "UIButton+CountDown.h"
+
 #endif /* CategoryToolOC_h */

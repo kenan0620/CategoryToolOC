@@ -11,6 +11,8 @@
 #endif
 
 #import "CategoryToolOC.h"
+#import "UIButton+Category.h"
+#import "UIButton+CountDown.h"
 #import "UIColor+Category.h"
 #import "UIImage+Color.h"
 #import "UIImage+Gif.h"
