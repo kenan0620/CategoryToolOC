@@ -20,4 +20,6 @@
 #import "UIButton+Category.h"
 #import "UIButton+CountDown.h"
 
+#import "UITextField+Category.h"
+
 #endif /* CategoryToolOC_h */

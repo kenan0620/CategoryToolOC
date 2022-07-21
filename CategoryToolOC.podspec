@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CategoryToolOC'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = '项目常用分类库.'
 
 # This description is used to generate tags and improve search results.
@@ -45,10 +45,17 @@ Pod::Spec.new do |s|
      ss.ios.deployment_target = '11.0'
      ss.source_files = 'CategoryToolOC/Classes/UIButton{*}.{h,m}'
    end
+  
   s.subspec 'WKWebView' do |ss|
      ss.ios.deployment_target = '11.0'
      ss.source_files = 'CategoryToolOC/Classes/WKWebView{*}.{h,m}'
    end
+  
+  s.subspec 'UITextField' do |ss|
+     ss.ios.deployment_target = '11.0'
+     ss.source_files = 'CategoryToolOC/Classes/UITextField{*}.{h,m}'
+   end
+  
   s.subspec 'UIViewController' do |ss|
      ss.ios.deployment_target = '11.0'
      ss.source_files = 'UIViewController'

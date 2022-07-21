@@ -20,6 +20,7 @@
 #import "UIImage+Larger.h"
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
+#import "UITextField+Category.h"
 #import "UINavigationController+Category.h"
 #import "UIViewController+Category.h"
 #import "WKWebView+Category.h"
