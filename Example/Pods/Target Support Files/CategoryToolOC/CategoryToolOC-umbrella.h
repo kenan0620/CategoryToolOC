@@ -20,6 +20,8 @@
 #import "UIImage+Larger.h"
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
+#import "UINavigationController+Category.h"
+#import "UIViewController+Category.h"
 #import "WKWebView+Category.h"
 
 FOUNDATION_EXPORT double CategoryToolOCVersionNumber;
