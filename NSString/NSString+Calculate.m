@@ -7,7 +7,6 @@
 
 #import "NSString+Calculate.h"
 
-@implementation NSString (Calculate)
 /// 计算类型
 typedef enum : NSUInteger {
     /// 加法计算
@@ -20,7 +19,7 @@ typedef enum : NSUInteger {
     CalculateDividing
 } CalculateType;
 
-@implementation NSString (LTM_Calculate)
+@implementation NSString (Calculate)
 
 - (NSComparisonResult)stringCompare:(NSString *)compareString{
     NSDecimalNumber *selfNumber = [NSDecimalNumber decimalNumberWithString:self];
