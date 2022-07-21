@@ -184,4 +184,5 @@ typedef enum : NSUInteger {
     
     return numberFormatter;
 }
+
 @end
