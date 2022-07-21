@@ -11,6 +11,13 @@
 #endif
 
 #import "CategoryToolOC.h"
+#import "NSAttributedString+TextSize.h"
+#import "NSString+Calculate.h"
+#import "NSString+CarNumType.h"
+#import "NSString+Decimal.h"
+#import "NSString+Encryption.h"
+#import "NSString+TextFiled.h"
+#import "NSString+TextSize.h"
 #import "UIButton+Category.h"
 #import "UIButton+CountDown.h"
 #import "UIColor+Category.h"
