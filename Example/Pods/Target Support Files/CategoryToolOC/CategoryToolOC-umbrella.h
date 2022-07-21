@@ -25,6 +25,7 @@
 #import "UIButton+Category.h"
 #import "UIButton+CountDown.h"
 #import "UIColor+Category.h"
+#import "UIFont+Category.h"
 #import "UIImage+Color.h"
 #import "UIImage+Gif.h"
 #import "UIImage+Image.h"

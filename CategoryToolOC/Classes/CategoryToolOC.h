@@ -8,7 +8,12 @@
 #ifndef CategoryToolOC_h
 #define CategoryToolOC_h
 
+#import "UIButton+Category.h"
+#import "UIButton+CountDown.h"
+
 #import "UIColor+Category.h"
+
+#import "UIFont+Category.h"
 
 #import "UIImage+Color.h"
 #import "UIImage+Gif.h"
@@ -16,9 +21,6 @@
 #import "UIImage+Larger.h"
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
-
-#import "UIButton+Category.h"
-#import "UIButton+CountDown.h"
 
 #import "UITextField+Category.h"
 

@@ -1,6 +1,6 @@
 {
   "name": "CategoryToolOC",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "项目常用分类库.",
   "description": "项目常用分类库,包含项目中的和系统中的.",
   "homepage": "https://github.com/kenan0620/CategoryToolOC",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/kenan0620/CategoryToolOC.git",
-    "tag": "0.1.8"
+    "tag": "0.1.9"
   },
   "social_media_url": "https://www.jianshu.com/u/aa2d07ae7c2f",
   "platforms": {
@@ -22,20 +22,6 @@
   "source_files": "CategoryToolOC/Classes/CategoryToolOC.h",
   "subspecs": [
     {
-      "name": "UIColor",
-      "platforms": {
-        "ios": "11.0"
-      },
-      "source_files": "CategoryToolOC/Classes/UIColor{*}.{h,m}"
-    },
-    {
-      "name": "UIImage",
-      "platforms": {
-        "ios": "11.0"
-      },
-      "source_files": "CategoryToolOC/Classes/UIImage{*}.{h,m}"
-    },
-    {
       "name": "UIButton",
       "platforms": {
         "ios": "11.0"
@@ -43,11 +29,25 @@
       "source_files": "CategoryToolOC/Classes/UIButton{*}.{h,m}"
     },
     {
-      "name": "WKWebView",
+      "name": "UIColor",
       "platforms": {
         "ios": "11.0"
       },
-      "source_files": "CategoryToolOC/Classes/WKWebView{*}.{h,m}"
+      "source_files": "CategoryToolOC/Classes/UIColor{*}.{h,m}"
+    },
+    {
+      "name": "UIFont",
+      "platforms": {
+        "ios": "11.0"
+      },
+      "source_files": "CategoryToolOC/Classes/UIFont{*}.{h,m}"
+    },
+    {
+      "name": "UIImage",
+      "platforms": {
+        "ios": "11.0"
+      },
+      "source_files": "CategoryToolOC/Classes/UIImage{*}.{h,m}"
     },
     {
       "name": "UITextField",
@@ -64,11 +64,11 @@
       "source_files": "UIViewController"
     },
     {
-      "name": "NSString",
+      "name": "WKWebView",
       "platforms": {
         "ios": "11.0"
       },
-      "source_files": "NSString"
+      "source_files": "CategoryToolOC/Classes/WKWebView{*}.{h,m}"
     },
     {
       "name": "Date",
@@ -76,6 +76,13 @@
         "ios": "11.0"
       },
       "source_files": "Date"
+    },
+    {
+      "name": "NSString",
+      "platforms": {
+        "ios": "11.0"
+      },
+      "source_files": "NSString"
     }
   ]
 }
