@@ -1,19 +1,21 @@
 PODS:
-  - CategoryToolOC (0.1.7):
-    - CategoryToolOC/NSString (= 0.1.7)
-    - CategoryToolOC/UIButton (= 0.1.7)
-    - CategoryToolOC/UIColor (= 0.1.7)
-    - CategoryToolOC/UIImage (= 0.1.7)
-    - CategoryToolOC/UITextField (= 0.1.7)
-    - CategoryToolOC/UIViewController (= 0.1.7)
-    - CategoryToolOC/WKWebView (= 0.1.7)
-  - CategoryToolOC/NSString (0.1.7)
-  - CategoryToolOC/UIButton (0.1.7)
-  - CategoryToolOC/UIColor (0.1.7)
-  - CategoryToolOC/UIImage (0.1.7)
-  - CategoryToolOC/UITextField (0.1.7)
-  - CategoryToolOC/UIViewController (0.1.7)
-  - CategoryToolOC/WKWebView (0.1.7)
+  - CategoryToolOC (0.1.8):
+    - CategoryToolOC/Date (= 0.1.8)
+    - CategoryToolOC/NSString (= 0.1.8)
+    - CategoryToolOC/UIButton (= 0.1.8)
+    - CategoryToolOC/UIColor (= 0.1.8)
+    - CategoryToolOC/UIImage (= 0.1.8)
+    - CategoryToolOC/UITextField (= 0.1.8)
+    - CategoryToolOC/UIViewController (= 0.1.8)
+    - CategoryToolOC/WKWebView (= 0.1.8)
+  - CategoryToolOC/Date (0.1.8)
+  - CategoryToolOC/NSString (0.1.8)
+  - CategoryToolOC/UIButton (0.1.8)
+  - CategoryToolOC/UIColor (0.1.8)
+  - CategoryToolOC/UIImage (0.1.8)
+  - CategoryToolOC/UITextField (0.1.8)
+  - CategoryToolOC/UIViewController (0.1.8)
+  - CategoryToolOC/WKWebView (0.1.8)
 
 DEPENDENCIES:
   - CategoryToolOC (from `../`)
@@ -23,7 +25,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CategoryToolOC: 442c05e41acd4fa3ea225152d9ba3280a175f2f2
+  CategoryToolOC: e2947bb327b97e3a0497f0c92a48908ee86f5ac6
 
 PODFILE CHECKSUM: 81346bbcc21d99ad42173edf28021460e357da67
 

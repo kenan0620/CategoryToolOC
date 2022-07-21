@@ -11,6 +11,10 @@
 #endif
 
 #import "CategoryToolOC.h"
+#import "DateFormatHeader.h"
+#import "NSDate+Category.h"
+#import "NSDateFormatter+Category.h"
+#import "NSString+DateCategory.h"
 #import "NSAttributedString+TextSize.h"
 #import "NSString+Calculate.h"
 #import "NSString+CarNumType.h"
