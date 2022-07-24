@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'CategoryToolOC'
-    s.version          = '0.2.0'
+    s.version          = '0.2.1'
     s.summary          = '项目常用分类库.'
     
     # This description is used to generate tags and improve search results.
@@ -79,6 +79,11 @@ Pod::Spec.new do |s|
     s.subspec 'NSString' do |ss|
         ss.ios.deployment_target = '11.0'
         ss.source_files = 'NSString'
+    end
+    
+    s.subspec 'System' do |ss|
+        ss.ios.deployment_target = '11.0'
+        ss.source_files = 'System'
     end
     
     # s.resource_bundles = {
