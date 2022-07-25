@@ -40,6 +40,7 @@
 #import "UIImage+Larger.h"
 #import "UIImage+Rotate.h"
 #import "UIImage+SubImage.h"
+#import "UIScrollView+Category.h"
 #import "UITextField+Category.h"
 #import "UIView+Category.h"
 #import "UINavigationController+Category.h"

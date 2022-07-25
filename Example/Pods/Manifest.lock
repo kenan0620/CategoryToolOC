@@ -7,6 +7,7 @@ PODS:
     - CategoryToolOC/UIColor (= 0.2.1)
     - CategoryToolOC/UIFont (= 0.2.1)
     - CategoryToolOC/UIImage (= 0.2.1)
+    - CategoryToolOC/UIScrollView (= 0.2.1)
     - CategoryToolOC/UITextField (= 0.2.1)
     - CategoryToolOC/UIView (= 0.2.1)
     - CategoryToolOC/UIViewController (= 0.2.1)
@@ -18,6 +19,7 @@ PODS:
   - CategoryToolOC/UIColor (0.2.1)
   - CategoryToolOC/UIFont (0.2.1)
   - CategoryToolOC/UIImage (0.2.1)
+  - CategoryToolOC/UIScrollView (0.2.1)
   - CategoryToolOC/UITextField (0.2.1)
   - CategoryToolOC/UIView (0.2.1)
   - CategoryToolOC/UIViewController (0.2.1)
@@ -31,7 +33,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CategoryToolOC: 66c7d06707f5410b2c02192abce049f81dcabe2c
+  CategoryToolOC: b171b6e72bec612a13a8c3a0ee1afbae23609b35
 
 PODFILE CHECKSUM: 81346bbcc21d99ad42173edf28021460e357da67
 

@@ -50,6 +50,13 @@
       "source_files": "CategoryToolOC/Classes/UIImage{*}.{h,m}"
     },
     {
+      "name": "UIScrollView",
+      "platforms": {
+        "ios": "11.0"
+      },
+      "source_files": "CategoryToolOC/Classes/UIScrollView{*}.{h,m}"
+    },
+    {
       "name": "UITextField",
       "platforms": {
         "ios": "11.0"

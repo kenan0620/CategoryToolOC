@@ -51,6 +51,11 @@ Pod::Spec.new do |s|
         ss.source_files = 'CategoryToolOC/Classes/UIImage{*}.{h,m}'
     end
     
+    s.subspec 'UIScrollView' do |ss|
+        ss.ios.deployment_target = '11.0'
+        ss.source_files = 'CategoryToolOC/Classes/UIScrollView{*}.{h,m}'
+    end
+    
     s.subspec 'UITextField' do |ss|
         ss.ios.deployment_target = '11.0'
         ss.source_files = 'CategoryToolOC/Classes/UITextField{*}.{h,m}'
