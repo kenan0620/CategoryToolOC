@@ -1,29 +1,29 @@
 PODS:
-  - CategoryToolOC (0.2.1):
-    - CategoryToolOC/Date (= 0.2.1)
-    - CategoryToolOC/NSString (= 0.2.1)
-    - CategoryToolOC/System (= 0.2.1)
-    - CategoryToolOC/UIButton (= 0.2.1)
-    - CategoryToolOC/UIColor (= 0.2.1)
-    - CategoryToolOC/UIFont (= 0.2.1)
-    - CategoryToolOC/UIImage (= 0.2.1)
-    - CategoryToolOC/UIScrollView (= 0.2.1)
-    - CategoryToolOC/UITextField (= 0.2.1)
-    - CategoryToolOC/UIView (= 0.2.1)
-    - CategoryToolOC/UIViewController (= 0.2.1)
-    - CategoryToolOC/WKWebView (= 0.2.1)
-  - CategoryToolOC/Date (0.2.1)
-  - CategoryToolOC/NSString (0.2.1)
-  - CategoryToolOC/System (0.2.1)
-  - CategoryToolOC/UIButton (0.2.1)
-  - CategoryToolOC/UIColor (0.2.1)
-  - CategoryToolOC/UIFont (0.2.1)
-  - CategoryToolOC/UIImage (0.2.1)
-  - CategoryToolOC/UIScrollView (0.2.1)
-  - CategoryToolOC/UITextField (0.2.1)
-  - CategoryToolOC/UIView (0.2.1)
-  - CategoryToolOC/UIViewController (0.2.1)
-  - CategoryToolOC/WKWebView (0.2.1)
+  - CategoryToolOC (0.2.2):
+    - CategoryToolOC/Date (= 0.2.2)
+    - CategoryToolOC/NSString (= 0.2.2)
+    - CategoryToolOC/System (= 0.2.2)
+    - CategoryToolOC/UIButton (= 0.2.2)
+    - CategoryToolOC/UIColor (= 0.2.2)
+    - CategoryToolOC/UIFont (= 0.2.2)
+    - CategoryToolOC/UIImage (= 0.2.2)
+    - CategoryToolOC/UIScrollView (= 0.2.2)
+    - CategoryToolOC/UITextField (= 0.2.2)
+    - CategoryToolOC/UIView (= 0.2.2)
+    - CategoryToolOC/UIViewController (= 0.2.2)
+    - CategoryToolOC/WKWebView (= 0.2.2)
+  - CategoryToolOC/Date (0.2.2)
+  - CategoryToolOC/NSString (0.2.2)
+  - CategoryToolOC/System (0.2.2)
+  - CategoryToolOC/UIButton (0.2.2)
+  - CategoryToolOC/UIColor (0.2.2)
+  - CategoryToolOC/UIFont (0.2.2)
+  - CategoryToolOC/UIImage (0.2.2)
+  - CategoryToolOC/UIScrollView (0.2.2)
+  - CategoryToolOC/UITextField (0.2.2)
+  - CategoryToolOC/UIView (0.2.2)
+  - CategoryToolOC/UIViewController (0.2.2)
+  - CategoryToolOC/WKWebView (0.2.2)
 
 DEPENDENCIES:
   - CategoryToolOC (from `../`)
@@ -33,7 +33,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CategoryToolOC: b171b6e72bec612a13a8c3a0ee1afbae23609b35
+  CategoryToolOC: a1d6d2bbc6c424ac927284399a3788c73206cc64
 
 PODFILE CHECKSUM: 81346bbcc21d99ad42173edf28021460e357da67
 
