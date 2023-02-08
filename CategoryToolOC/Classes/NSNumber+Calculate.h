@@ -26,30 +26,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  @return 加后结果
  */
-- (NSString *)adding:(NSNumber *)number;
-
-/**
- 加法计算，默认保留两位小数
- 
- @param number 被加数
- @param mode 四舍五入的方式
- 
- @return 加后结果
- */
-- (NSString *)adding:(NSNumber *)number
-        RoundingMode:(NSRoundingMode)mode;
-/**
- 加法计算
- 
- @param number 被加数
- @param mode 四舍五入的方式
- @param scale 保留小数位数
- 
- @return 加后结果
- */
-- (NSString *)adding:(NSNumber *)number
-        RoundingMode:(NSRoundingMode)mode
-               Scale:(NSInteger)scale;
+- (NSNumber *)adding:(NSNumber *)number;
 
 /**
  减法计算，默认保留两位小数，默认采用四舍五入的方式处理计算结果,
@@ -58,30 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  @return 减后结果
  */
-- (NSString *)subtracting:(NSNumber *)number;
-
-/**
- 减法计算，默认保留两位小数
- 
- @param number 被减数
- @param mode 四舍五入的方式
- 
- @return 减后结果
- */
-- (NSString *)subtracting:(NSNumber *)number
-             RoundingMode:(NSRoundingMode)mode;
-/**
- 减法计算
- 
- @param number 被减数
- @param mode 四舍五入的方式
- @param scale 保留小数位数
- 
- @return 减后结果
- */
-- (NSString *)subtracting:(NSNumber *)number
-             RoundingMode:(NSRoundingMode)mode
-                    Scale:(NSInteger)scale;
+- (NSNumber *)subtracting:(NSNumber *)number;
 
 /**
  乘法计算，默认保留两位小数，默认采用四舍五入的方式处理计算结果,
@@ -90,30 +44,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  @return 乘后结果
  */
-- (NSString *)multiplying:(NSNumber *)number;
-
-/**
- 乘法计算，默认保留两位小数
- 
- @param number 被乘数
- @param mode 四舍五入的方式
- 
- @return 乘后结果
- */
-- (NSString *)multiplying:(NSNumber *)number
-             RoundingMode:(NSRoundingMode)mode;
-/**
- 乘法计算
- 
- @param number 被乘数
- @param mode 四舍五入的方式
- @param scale 保留小数位数
- 
- @return 乘后结果
- */
-- (NSString *)multiplying:(NSNumber *)number
-             RoundingMode:(NSRoundingMode)mode
-                    Scale:(NSInteger)scale;
+- (NSNumber *)multiplying:(NSNumber *)number;
 
 /**
  除法计算，默认保留两位小数，默认采用四舍五入的方式处理计算结果,
@@ -122,30 +53,21 @@ NS_ASSUME_NONNULL_BEGIN
  
  @return 除后结果
  */
-- (NSString *)dividing:(NSNumber *)number;
+- (NSNumber *)dividing:(NSNumber *)number;
 
 /**
- 除法计算，默认保留两位小数
+ 小数位展示使用，带逗号
  
- @param number 被除数
- @param mode 四舍五入的方式
- 
- @return 除后结果
+ @param digit 小数位数, 默认四舍五入
  */
-- (NSString *)dividing:(NSNumber *)number
-          RoundingMode:(NSRoundingMode)mode;
+- (NSString *)decimalDigit:(int)digit;
+
 /**
- 除法计算
+ 小数位展示使用，不带逗号
  
- @param number 被除数
- @param mode 四舍五入的方式
- @param scale 保留小数位数
- 
- @return 除后结果
+ @param digit 小数位数, 默认四舍五入
  */
-- (NSString *)dividing:(NSNumber *)number
-          RoundingMode:(NSRoundingMode)mode
-                 Scale:(NSInteger)scale;
+- (NSString *)decimalDigitParam:(int)digit;
 @end
 
 NS_ASSUME_NONNULL_END

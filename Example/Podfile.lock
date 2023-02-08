@@ -1,31 +1,31 @@
 PODS:
-  - CategoryToolOC (0.2.3):
-    - CategoryToolOC/Calculate (= 0.2.3)
-    - CategoryToolOC/Date (= 0.2.3)
-    - CategoryToolOC/NSString (= 0.2.3)
-    - CategoryToolOC/System (= 0.2.3)
-    - CategoryToolOC/UIButton (= 0.2.3)
-    - CategoryToolOC/UIColor (= 0.2.3)
-    - CategoryToolOC/UIFont (= 0.2.3)
-    - CategoryToolOC/UIImage (= 0.2.3)
-    - CategoryToolOC/UIScrollView (= 0.2.3)
-    - CategoryToolOC/UITextField (= 0.2.3)
-    - CategoryToolOC/UIView (= 0.2.3)
-    - CategoryToolOC/UIViewController (= 0.2.3)
-    - CategoryToolOC/WKWebView (= 0.2.3)
-  - CategoryToolOC/Calculate (0.2.3)
-  - CategoryToolOC/Date (0.2.3)
-  - CategoryToolOC/NSString (0.2.3)
-  - CategoryToolOC/System (0.2.3)
-  - CategoryToolOC/UIButton (0.2.3)
-  - CategoryToolOC/UIColor (0.2.3)
-  - CategoryToolOC/UIFont (0.2.3)
-  - CategoryToolOC/UIImage (0.2.3)
-  - CategoryToolOC/UIScrollView (0.2.3)
-  - CategoryToolOC/UITextField (0.2.3)
-  - CategoryToolOC/UIView (0.2.3)
-  - CategoryToolOC/UIViewController (0.2.3)
-  - CategoryToolOC/WKWebView (0.2.3)
+  - CategoryToolOC (0.2.4):
+    - CategoryToolOC/Calculate (= 0.2.4)
+    - CategoryToolOC/Date (= 0.2.4)
+    - CategoryToolOC/NSString (= 0.2.4)
+    - CategoryToolOC/System (= 0.2.4)
+    - CategoryToolOC/UIButton (= 0.2.4)
+    - CategoryToolOC/UIColor (= 0.2.4)
+    - CategoryToolOC/UIFont (= 0.2.4)
+    - CategoryToolOC/UIImage (= 0.2.4)
+    - CategoryToolOC/UIScrollView (= 0.2.4)
+    - CategoryToolOC/UITextField (= 0.2.4)
+    - CategoryToolOC/UIView (= 0.2.4)
+    - CategoryToolOC/UIViewController (= 0.2.4)
+    - CategoryToolOC/WKWebView (= 0.2.4)
+  - CategoryToolOC/Calculate (0.2.4)
+  - CategoryToolOC/Date (0.2.4)
+  - CategoryToolOC/NSString (0.2.4)
+  - CategoryToolOC/System (0.2.4)
+  - CategoryToolOC/UIButton (0.2.4)
+  - CategoryToolOC/UIColor (0.2.4)
+  - CategoryToolOC/UIFont (0.2.4)
+  - CategoryToolOC/UIImage (0.2.4)
+  - CategoryToolOC/UIScrollView (0.2.4)
+  - CategoryToolOC/UITextField (0.2.4)
+  - CategoryToolOC/UIView (0.2.4)
+  - CategoryToolOC/UIViewController (0.2.4)
+  - CategoryToolOC/WKWebView (0.2.4)
 
 DEPENDENCIES:
   - CategoryToolOC (from `../`)
@@ -35,7 +35,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CategoryToolOC: 08436ab6b20edcba1169d57f02144118fc4f1736
+  CategoryToolOC: 9bc594aadd94707e899848ac1b729ad9ec33979c
 
 PODFILE CHECKSUM: 81346bbcc21d99ad42173edf28021460e357da67
 
