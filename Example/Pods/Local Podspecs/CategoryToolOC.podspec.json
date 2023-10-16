@@ -1,6 +1,6 @@
 {
   "name": "CategoryToolOC",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "项目常用分类库.",
   "description": "项目常用分类库,包含项目中的和系统中的.",
   "homepage": "https://github.com/kenan0620/CategoryToolOC",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/kenan0620/CategoryToolOC.git",
-    "tag": "0.2.5"
+    "tag": "0.2.6"
   },
   "social_media_url": "https://www.jianshu.com/u/aa2d07ae7c2f",
   "platforms": {
